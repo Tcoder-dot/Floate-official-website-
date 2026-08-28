@@ -1,0 +1,6 @@
+{
+  "name": "FLOATE AI",
+  "description": "Africa's Market Operating System for the informal economy, providing local business discovery, product search, and AI customer support directly on WhatsApp and Telegram. Powered by Floate Africa Ltd (RC: 9365804).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
